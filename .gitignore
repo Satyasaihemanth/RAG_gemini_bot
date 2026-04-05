@@ -1,0 +1,8 @@
+__pycache__/
+.env
+faiss_index/
+faiss_index_store/
+
+# Ignore heavy files
+*.pkl
+*.index
